@@ -1,0 +1,48 @@
+2019-02-14 13:00:55 ERROR Validator1:53 - 
+ 
+InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-14 13:02:53 ERROR Validator1:25 - 
+ 
+InvalidDirectory:  Invalid Directory entered "Directory is Invalid ...!"
+
+2019-02-14 13:11:06 ERROR Validator1:53 - 
+ 
+InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-14 13:14:21 ERROR Validator1:50 - 
+ 
+InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-14 13:39:44 ERROR Validator1:50 - 
+ 
+InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-15 13:11:12 ERROR Validator1:52 - 
+ 
+com.ncu.exceptions.InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-15 13:14:01 ERROR Validator1:52 - 
+ 
+com.ncu.exceptions.InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-15 13:15:05 ERROR Validator1:52 - 
+ 
+com.ncu.exceptions.InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-15 13:15:18 ERROR Validator1:26 - 
+ 
+com.ncu.exceptions.InvalidDirectory:  Invalid Directory entered "Directory is Invalid ...!"
+
+2019-02-15 13:17:09 ERROR Validator1:51 - 
+ 
+com.ncu.exceptions.InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-15 15:03:04 ERROR Validator1:26 - 
+ 
+com.ncu.exceptions.InvalidDirectory:  Invalid Directory entered "Directory is Invalid ...!"
+
+2019-02-15 15:03:15 ERROR Validator1:51 - 
+ 
+com.ncu.exceptions.InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
