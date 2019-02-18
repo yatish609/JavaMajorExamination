@@ -1,0 +1,56 @@
+2019-02-16 10:28:48 ERROR Validator1:26 - 
+ 
+com.ncu.exceptions.InvalidDirectory:  Invalid Directory entered "Directory is Invalid ...!"
+
+2019-02-16 12:40:01 ERROR Validator1:50 - 
+ 
+com.ncu.exceptions.InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-16 12:41:31 ERROR Validator1:50 - 
+ 
+"URL is Invalid ...!"
+
+2019-02-16 12:41:39 ERROR Validator1:50 - 
+ 
+"URL is Invalid ...!"
+
+2019-02-16 12:41:44 ERROR Validator1:50 - 
+ 
+"URL is Invalid ...!"
+
+2019-02-16 12:41:54 ERROR Validator1:50 - 
+ 
+"URL is Invalid ...!"
+
+2019-02-16 13:33:45 ERROR Validator1:50 - 
+ 
+"URL is Invalid ...!"
+
+2019-02-16 17:45:33 ERROR Validator1:26 - 
+ 
+"Directory is Invalid ...!"
+
+2019-02-17 22:55:33 ERROR Validator1:76 - 
+ 
+"File at the URL has invalid File Name ...!"
+
+2019-02-17 23:22:13 ERROR Validator1:76 - 
+ 
+"File at the URL has invalid File Name ...!"
+
+2019-02-17 23:22:44 ERROR Validator1:76 - 
+ 
+"File at the URL has invalid File Name ...!"
+
+2019-02-18 00:04:45 ERROR Validator1:26 - 
+ 
+"Directory is Invalid ...!"
+
+2019-02-18 14:53:38 ERROR Validator1:50 - 
+ 
+"URL is Invalid ...!"
+
+2019-02-18 14:56:52 ERROR Validator1:50 - 
+ 
+"URL is Invalid ...!"
+

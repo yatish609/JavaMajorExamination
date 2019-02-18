@@ -1,0 +1,18 @@
+ URL 	 	 	 	 	 	 	 	 	 Status 
+https://www.tutorialspoint.com/java/java_tutorial.pdf	 	 	 File Exists! 
+
+https://www.tutorialspoint.com/java/java_tutorial.pdf	 	 	 Download Completed! 
+
+https://www.geeksforgeeks.org/substring-in-java/	 	 	 Download Completed! 
+
+https://www.geeksforgeeks.org/substring-in-java/	 	 	 Download Completed! 
+
+https://www.tutorialspoint.com/java/java_tutorial.pdf	 	 	 Download Failed!
+
+https://www.tutorialspoint.com/java/java_tutorial.pdf	 	 	 Download Completed! 
+
+https://www.tutorialspoint.com/java/java_tutorial.pdf	 	 	 Download Completed! 
+
+uhgfyu	 	 	 Download Failed!
+
+	 	 	 Download Failed!

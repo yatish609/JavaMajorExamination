@@ -46,3 +46,15 @@ com.ncu.exceptions.InvalidDirectory:  Invalid Directory entered "Directory is In
  
 com.ncu.exceptions.InvalidURL:  Invalid URL entered "URL is Invalid ...!"
 
+2019-02-16 10:28:17 ERROR Validator1:51 - 
+ 
+com.ncu.exceptions.InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-16 12:26:49 ERROR Validator1:51 - 
+ 
+com.ncu.exceptions.InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+
+2019-02-16 12:32:21 ERROR Validator1:51 - 
+ 
+com.ncu.exceptions.InvalidURL:  Invalid URL entered "URL is Invalid ...!"
+

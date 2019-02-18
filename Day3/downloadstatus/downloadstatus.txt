@@ -8,3 +8,27 @@
  https://www.tutorialspoint.com/java	 	 	 File Does not Exist! 	 	 	 
 
  gfgfhfghf\fjrjfrkfk\frhfrhjj	 	 	 File Does not Exist! 	 	 	 
+
+ 	 	 	 File Does not Exist! 	 	 	 
+
+ https://www.tutorialspoint.com/java/java_tutorial.pdf	 	 	 File Does not Exist! 	 	 	 
+
+ https://www.tutorialspoint.com/java/java_tutorial.pdf	 	 	 File Exists! 
+
+ 	 	 	 File Does not Exist! 	 	 	 
+
+ bla	 	 	 File Does not Exist! 	 	 	 
+
+ sdfjwr	 	 	 File Does not Exist! 	 	 	 
+
+ skfskd	 	 	 File Does not Exist! 	 	 	 
+
+ ijfwij	 	 	 File Does not Exist! 	 	 	 
+
+ doaodj	 	 	 File Does not Exist! 	 	 	 
+
+ fsdfs	 	 	 File Does not Exist! 	 	 	 
+
+ https://www.tutorialspoint.com/java/java_tutorial.pdf	 	 	 File Exists! 
+
+ https://www.tutorialspoint.com/java/java_tutorial.pdf	 	 	 File Exists! 
